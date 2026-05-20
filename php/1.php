@@ -5,4 +5,5 @@ $query = "SELECT * FROM users WHERE username = '" . $username . "'";
 $result = mysqli_query($conn, $query);
 
 // trigger a default setup run
+// again
 ?>
