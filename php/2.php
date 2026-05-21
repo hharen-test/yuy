@@ -8,4 +8,5 @@ $result = mysqli_query($conn, $query);
 // trigger again
 // and again
 // another PR merged
+// setting enabled
 ?>
